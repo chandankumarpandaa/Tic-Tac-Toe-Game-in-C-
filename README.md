@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-Game-in-C-
+# Tic-Tac-Toe-Game
 My first college project
